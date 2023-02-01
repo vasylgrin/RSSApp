@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSSApp.Service", "RSSApp.Se
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSSApp.WebAPI", "RSSApp.WebAPI\RSSApp.WebAPI.csproj", "{D95BC6CC-BD7E-4165-AE60-18BF10DAF737}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSSApp.ServiceTests", "RSSApp.ServiceTests\RSSApp.ServiceTests.csproj", "{BB2DAADB-39B0-47CF-BAC6-12C97CDBB4EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSSApp.ServiceTests", "RSSApp.ServiceTests\RSSApp.ServiceTests.csproj", "{C5CEF891-6ECB-4340-806A-E1AABC1D3AB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,15 +35,15 @@ Global
 		{D95BC6CC-BD7E-4165-AE60-18BF10DAF737}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D95BC6CC-BD7E-4165-AE60-18BF10DAF737}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D95BC6CC-BD7E-4165-AE60-18BF10DAF737}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BB2DAADB-39B0-47CF-BAC6-12C97CDBB4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BB2DAADB-39B0-47CF-BAC6-12C97CDBB4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BB2DAADB-39B0-47CF-BAC6-12C97CDBB4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BB2DAADB-39B0-47CF-BAC6-12C97CDBB4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5CEF891-6ECB-4340-806A-E1AABC1D3AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5CEF891-6ECB-4340-806A-E1AABC1D3AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5CEF891-6ECB-4340-806A-E1AABC1D3AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5CEF891-6ECB-4340-806A-E1AABC1D3AB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {63ad1cec-39db-4118-854d-4c85154b32b1}
+		SolutionGuid = {2320701A-2E22-4A4F-B9E4-E96E09CCBC5A}
 	EndGlobalSection
 EndGlobal
